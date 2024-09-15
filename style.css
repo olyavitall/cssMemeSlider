@@ -1,0 +1,17 @@
+.slider {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    cursor: pointer;
+    user-select: none;
+}
+.btn {
+    background-color: transparent;
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    border: 1px solid;
+}
